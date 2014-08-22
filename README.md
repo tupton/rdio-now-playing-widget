@@ -1,12 +1,15 @@
-Ubersicht-Spotify-widget
-==========================
+# Rdio Now Playing for Übersicht
 
-Using Ubersicht displays current track palying in spotify on you desktop.
+Made for [Übersicht][u].
 
-Link to Ubersicht http://tracesof.net/uebersicht/#comment-1445259628
+  [u]: http://tracesof.net/uebersicht/
 
-Drop SpotifyCurrentTrack.coffee in you Ubersicht widgets folder and away you go!
+Extract rdio-now-playing.widget.zip in your Übersicht widgets folder.
 
-You may need to adjust the "top" and "left" position to suite your display
+## Credits
 
+Based on [Übersicht-Spotify-widget][us] by [Thomas Brace][tb].
+
+  [us]: https://github.com/ThomasBrace/Ubersicht-Spotify-widget
+  [tb]: http://www.thomasbrace.com/
 

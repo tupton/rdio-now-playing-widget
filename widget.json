@@ -1,6 +1,6 @@
 {
-  "name": "SpotifyCurrentTrack",
-  "description": "Displays current track palying in spotify",
-  "author": "ThomasBrace",
-  "email": "thomas@thomasbrace.com"
+  "name": "Rdio Now Plaing",
+  "description": "Displays the playing track in Rdio",
+  "author": "Thomas Upton",
+  "email": "thomasupton@gmail.com"
 }
