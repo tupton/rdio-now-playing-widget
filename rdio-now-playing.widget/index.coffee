@@ -1,5 +1,5 @@
 command: """
-IFS='|' read -r theName theArtist <<<"$(osascript <<<'
+IFS='|' read -r theName theArtist <<<"$(osascript 2>/dev/null <<<'
     if application "Rdio" is running then
         tell application "Rdio"
             if player state is playing then
