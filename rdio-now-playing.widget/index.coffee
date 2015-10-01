@@ -21,7 +21,7 @@ style: """
   left: 10px
 
   .rdio
-    font-family: Helvetica Neue
+    font-family: -apple-system, "San Francisco", "Helvetica Neue"
     font-size: 30px
     font-weight: 100
     color: #fff
